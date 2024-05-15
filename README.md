@@ -157,9 +157,13 @@ or (c,w[0],w[1],w[2],w[3],w[4],w[5],w[6],w[7]);
 endmodule
 ```
 OUTPUT:
+
 ![WhatsApp Image 2024-04-22 at 14 53 11_f0478544](https://github.com/Yogalakshmip08/VLSI-LAB-EXP-2/assets/161303457/60409f84-3c06-4581-a196-75fbc8c43888)
+
 ![WhatsApp Image 2024-04-22 at 14 53 24_f8a24744](https://github.com/Yogalakshmip08/VLSI-LAB-EXP-2/assets/161303457/ffc879df-28e4-443c-ab06-6cb0c30b6b9a)
+
 RESULT:
+
 The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivado Software are successfully verified
 
 
